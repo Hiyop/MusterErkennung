@@ -1,0 +1,6 @@
+
+# ignore the python environment:
+/venv
+
+# ignore vim backup files:
+.*.swp
