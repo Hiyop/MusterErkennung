@@ -4,3 +4,6 @@
 
 # ignore vim backup files:
 .*.swp
+
+# ignore data folder
+/src/data
